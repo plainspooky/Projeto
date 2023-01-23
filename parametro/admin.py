@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import parametro
-# Register your models here.
+from .models import Parametro
 
-admin.site.register(parametro)SSSSSSS
+
+admin.site.register(Parametro)
